@@ -7,7 +7,7 @@ An Arduino-based, password-protected gate system designed for secure access cont
 ![Stars](https://img.shields.io/github/stars/Mamadou-K/SecureGate?style=social)
 ![Forks](https://img.shields.io/github/forks/Mamadou-K/SecureGate?style=social)
 
-![SecureGate Preview Image](/preview_example.png)
+![SecureGate Preview Image](/Secure_gate.png)
 
 ## ✨ Features
 
